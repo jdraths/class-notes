@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Markdown Tips
+date: "2022-08-24T22:12:03.284Z"
+description: "This post holds all my notes on Markdown. Well... anyways it shows a lot of the formatting"
 ---
 
 This is my first post on my new fake blog! How exciting!
