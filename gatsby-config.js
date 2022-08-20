@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Altus Academy Coding`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `The class`,
+      summary: `who loves to hack together amazing software.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Our class blog, with notes from every class & important topics.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `wendys`,
     },
   },
   plugins: [
