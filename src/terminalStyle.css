@@ -55,12 +55,13 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   /* ---------------------- */
-  --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-primary: rgb(255, 255, 255);
+  --color-text: rgb(238, 255, 255);
+  --color-text-light: rgb(195, 232, 141);
+  --color-heading: rgb(255, 203, 107);
+  --color-heading-black: rgb(255, 255, 255);
+  --color-accent: rgb(137, 221, 255);
+  --color-background: rgb(33, 33, 33);
 }
 
 /* HTML elements */
@@ -82,6 +83,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background-color: var(--color-background);
 }
 
 footer {
