@@ -15,6 +15,8 @@ description: The basics on git... what else would it be?
 
 ### Git Aliases <a name="git-aliases"></a>
 
+#### Note the below does not work on gitpod... A gitpod solution needs to be googled
+
 git aliases save you time when typing:
 
 in your zsh shell...
