@@ -18,3 +18,12 @@ description: What did we do? Hack in Sonic Pi. And introduce each other. It was 
 
 3. It's hard to communicate without written words...
     * that's why we have this site now...
+
+## Tune of the Day
+
+Avicii - Levels: [video](https://www.youtube.com/watch?v=_ovdm2yX4MA)
+
+## Sonic Pi
+
+[Download](https://sonic-pi.net/)
+[some beats](https://github.com/jdraths/sonic-pi-beats)
