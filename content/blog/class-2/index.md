@@ -170,3 +170,12 @@ it's something like: [https://github.com/jdraths](https://github.com/jdraths)
     * after clicking the logo the left nav should look like this… if so, good. if not lmk.
 
     ![Untitled](images/5source-control.png)
+
+### other changes that should be made on your own or in future classes
+
+1. update gatsby-config attributes for `siteMetadata`, `gatsby-plugin-feed`'s `title`, & `gatsby-plugin-manifest`
+2. update the favicon... need to google how to do this
+3. update `Seo title=`
+4. add a createPost script - that should be it's own blog post explaining this
+5. add an about me page
+6. styling changes... [we have a post for this](../blog-styling/)
