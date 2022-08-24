@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Altus Academy Coding`,
     author: {
-      name: `The class`,
+      name: `The Class`,
       summary: `who loves to hack together amazing software.`,
     },
     description: `Our class blog, with notes from every class & important topics.`,
