@@ -23,6 +23,8 @@ description: What did we do? Hack in Sonic Pi. And introduce each other. It was 
 
 Avicii - Levels: [video](https://www.youtube.com/watch?v=_ovdm2yX4MA)
 
+`video: https://www.youtube.com/embed/_ovdm2yX4MA`
+
 ## Sonic Pi
 
 [Download](https://sonic-pi.net/)
