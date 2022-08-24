@@ -16,4 +16,5 @@ description: What did we do? Hack in Sonic Pi. And introduce each other. It was 
     * most of how we got around was via google
     * if you ever run into a problem... google normally has an answer
 
-3. What else?
+3. It's hard to communicate without written words...
+    * that's why we have this site now...

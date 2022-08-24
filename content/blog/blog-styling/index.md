@@ -1,6 +1,6 @@
 ---
 title: Good Styling Ideas
-date: "2022-08-18T13:52:54Z"
+date: "2022-08-18T23:52:54Z"
 description: A collection of good styling ideas for our blog
 ---
 
