@@ -61,7 +61,7 @@ fully loaded looks like this:
 ### Ok, let's get create our blog via the Terminal
 
 ```sh
-npx gatsby new class-notes [https://github.com/gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
+npx gatsby new class-notes https://github.com/gatsbyjs/gatsby-starter-blog
 ```
 
 ### A directory mishap we need to fix
