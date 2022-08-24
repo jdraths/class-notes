@@ -4,6 +4,13 @@ date: "2022-08-24T22:12:03.284Z"
 description: "Outline of how we're going to launch our blog"
 ---
 
+## What are we going to learn today
+
+1. where to store our code (github)
+2. how to edit our code (gitpod)
+3. a little bit about the Terminal
+4. nothing else needs to make sense today. In future classes we will circle back on all the confusing parts
+
 ## Let’s get set up
 
 1. signup for github
@@ -179,3 +186,4 @@ it's something like: [https://github.com/jdraths](https://github.com/jdraths)
 4. add a createPost script - that should be it's own blog post explaining this
 5. add an about me page
 6. styling changes... [we have a post for this](../blog-styling/)
+7. add emoji support... need to google this
