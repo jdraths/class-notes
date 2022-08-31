@@ -15,6 +15,7 @@ There are some mindblowing AI tools out there that will quickly change the world
 [generating artwork from text](https://www.midjourney.com/showcase/)
 ![stable-diffusion-samples](./images/stable-diffusion.png)
 
+[AI Art 101](https://twitter.com/daniel_eckler/status/1564601398284664832)
 ### OpenAI
 
 [the og](https://openai.com/) has been around for 5 years or so. Mostly closed source & pay for use
