@@ -98,10 +98,72 @@ Then close that editor window (click the little x):
 
 > I have a feeling I forgot something about permissions here... But I recorded permission issues [here](../gitpod-github-permissions)
 
-#### Go check out your github profile
+### Go check out your github profile
 
 it's something like: [https://github.com/jdraths](https://github.com/jdraths)
 
 *omg we have code on github…*
 
 ***omg our github profile shows some green boxes!***
+
+### Ok, let’s run our blog locally
+
+open `package.json` & let's start learning.
+
+First, you'll need to click on the File Explorer tab (top-left) in the left nav. Then click on the `package.json` file in the file explorer:
+![file-explorer](./images/file-explorer.png)
+
+It will look like this:
+![package-json](./images/package-json.png)
+
+Scroll down to line 42 & look at `scripts`:
+![line-42-scripts](./images/scripts.png)
+
+* (this is typical for react apps) - You’ll learn more about this later
+* for all the objects in `scripts` you can run `npm run [whatever]`... 
+
+so rn, let's run `npm run start` (see line 46). We can guess that this will run our blog locally.
+
+To run `npm run start` navigate to your terminal (it's in the bottom of your gitpod):
+![where-is-terminal](./images/where-is-terminal.png)
+
+It looks like this:
+![terminal](./images/terminal.png)
+
+type `npm run start`:
+![npm-run-start-first](./images/npm-run-start-1.png)
+
+then press enter. Oh shoot, forgot something again:
+![ERROR-sadness](./images/npm-start-error.png)
+
+our folder structure is a little unusual (which we'll fix later). We need to navigate into our blog... which is called `class-notes`. So type `cd class-notes`. then press enter.
+![cd-class-notes](./images/cd-class-notes.png)
+
+now type `npm run start`  
+![npm-run-start-2](./images/npm-run-start-2.png)
+
+now navigate to the `Remote Explorer` to view your running app:
+![remote-explorer](./images/remote-explorer.png)
+
+click the little globe:
+![globe](./images/globe.png)
+
+#### NICE, now let’s start editing
+
+in our preview you can see we have three blog posts already generated for us
+
+![init-ui](./images/8init-ui.png)
+
+^^^ New Beginnings, My Second Post! & Hello World… let’s change these
+
+navigate to `content` folder
+
+![explorer](./images/9explorer.png)
+
+let’s go to hello-world & change the file
+
+* “My Name is _____”
+* save & flip back to your other tab:
+
+![rev-ui](./images/10rev-ui.png)
+
