@@ -17,7 +17,9 @@ Remember, github is for ***hosting*** your code. Gitpod is for ***editing*** you
 ## Today
 
 1. sign back in to [gitpod](https://gitpod.io/workspaces)
-2. 
+2. push our changes to github
+3. run our site
+4. edit it
 
 ## Let's go
 
