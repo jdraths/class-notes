@@ -1,6 +1,6 @@
 ---
 title: Set github permissions in gitpod
-date: "2022-08-31T13:13:13Z"
+date: "2022-08-30T13:13:13Z"
 description: How to set the proper github permissions in gitpod
 ---
 
