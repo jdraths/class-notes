@@ -1,7 +1,7 @@
 ---
 title: Continuing Class 3 with Editing
 date: "2022-09-06T15:33:13Z"
-description: preview text
+description: Picking up where Class 3 Left Off
 ---
 
 ## Last week
