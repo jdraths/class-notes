@@ -320,6 +320,18 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.gatsby-resp-image-wrapper {
+  /* examples for posterity */
+  /* bottom & right shadow */
+  /* box-shadow: 5px 5px rgba(0, 0, 0, 0.3); */
+  /* bottom & left shadow */
+  /* box-shadow: -5px 5px rgba(0, 0, 0, 0.3); */
+  /* bottom only shadow */
+  /* box-shadow: 0 10px rgba(0, 0, 0, 0.3); */
+  /* combined shadow */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2), -5px 5px 5px rgba(0, 0, 0, 0.2), 0 7px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
