@@ -1,6 +1,6 @@
 ---
 title: Continuing Class 3 with Editing
-date: "2022-09-07T15:33:13Z"
+date: "2022-09-06T15:33:13Z"
 description: preview text
 ---
 
