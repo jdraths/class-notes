@@ -1,7 +1,7 @@
 ---
-title: Continuing Class 3 with Editing
+title: Class 3 - Part 2
 date: "2022-09-06T15:33:13Z"
-description: Picking up where Class 3 Left Off
+description: Continuing Class 3 with Editing
 ---
 
 ## Last week
