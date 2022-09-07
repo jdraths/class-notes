@@ -19,7 +19,7 @@ Remember, github is for ***hosting*** your code. Gitpod is for ***editing*** you
 1. sign back in to [gitpod](https://gitpod.io/workspaces)
 2. push our changes to github
 3. run our site
-4. edit it
+4. edit it. see [class 3 part 2](../class-3-part-2/)
 
 ## Let's go
 
@@ -149,23 +149,3 @@ now navigate to the `Remote Explorer` to view your running app:
 
 click the little globe:
 ![globe](./images/globe.png)
-
-#### NICE, now let’s start editing
-
-in our preview you can see we have three blog posts already generated for us
-
-![init-ui](./images/8init-ui.png)
-
-^^^ New Beginnings, My Second Post! & Hello World… let’s change these
-
-navigate to `content` folder
-
-![explorer](./images/9explorer.png)
-
-let’s go to hello-world & change the file
-
-* “My Name is _____”
-* save & flip back to your other tab:
-
-![rev-ui](./images/10rev-ui.png)
-
