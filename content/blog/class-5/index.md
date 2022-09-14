@@ -19,3 +19,10 @@ Join the Team [here](https://codesandbox.io/invite/uw8sghrhcbzlj9wl)
 ## Why are we using Code Sandbox or Gitpod anyways?
 
 ![why-codesandbox](./images/why-codesandbox.png)
+
+<!-- ![full-stack-browser-ide](./images/full-stack-browser-ide.png) -->
+
+## After this continue with Class 3 part 2
+
+[Class 3 Part 2 - Getting your website running](../class-3-part-2/)
+
