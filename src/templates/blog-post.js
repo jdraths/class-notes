@@ -4,7 +4,11 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import ToC from "../components/toc"
 
+/**
+ * The core template for all blog posts, referenced in gatsby-node.js via src/templates/blog-post.js
+ */
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
@@ -22,10 +26,14 @@ const BlogPostTemplate = ({
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
+        <div className="articleContainer">
+          <ToC headings={post.headings} />
+          <section
+            dangerouslySetInnerHTML={{ __html: post.html }}
+            itemProp="articleBody"
+            className="articleBody"
+          />
+        </div>
         <hr />
         <footer>
           <Bio />
@@ -87,6 +95,10 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      headings {
+        value
+        depth
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
