@@ -58,9 +58,37 @@
   --color-primary: #005b99;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
+  --color-gray-superlight: #E8EAEE;
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+}
+
+/* On smaller screens, where width is less than 52rem */
+/* we want central article to be 42 rem */
+@media screen and (max-width: 52rem) {
+  :root {
+    --leftNavWidth: 0;
+    --rightNavMaxWidth: 0
+  }
+}
+@media (min-width: 52rem) and (max-width: 67rem) {
+  :root {
+    --leftNavWidth: 0rem;
+    --rightNavMaxWidth: 15rem;
+  }
+}
+@media (min-width: 67rem) and (max-width: 102rem) {
+  :root {
+    --leftNavWidth: 10rem;
+    --rightNavMaxWidth: 30rem;
+  }
+}
+@media (min-width: 97rem) {
+  :root {
+    --leftNavWidth: 18rem;
+    --rightNavMaxWidth: 30rem;
+  }
 }
 
 /* HTML elements */
@@ -243,7 +271,7 @@ a:focus {
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
-  max-width: var(--maxWidth-wrapper);
+  max-width: var(--maxWidth-full);
   padding: var(--spacing-10) var(--spacing-5);
 }
 
@@ -252,7 +280,40 @@ a:focus {
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  /* smaller max-width & center... */
+  margin: 0 auto var(--spacing-12) auto;
+  max-width: var(--maxWidth-wrapper);
+}
+
+.main-body {
+  margin-left: var(--leftNavWidth);
+}
+
+.blog-post {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.articleContainer {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.sidebar {
+  --offset: var(--spacing-0);
+  flex-grow: 1;
+  align-self: start;
+  position: sticky;
+  top: var(--offset);
+  width: var(--rightNavMaxWidth);
+  padding: 0 0 0 1.5rem;
+  background-color: var(--color-gray-superlight);
+  border-radius: 30px;
+}
+
+.articleBody {
+  flex-grow: 3;
 }
 
 .main-heading {
