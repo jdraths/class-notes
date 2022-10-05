@@ -54,3 +54,29 @@ This is in Netlify in the `Site Overview` tab:
 
 Add domain alias:
 ![domain-alias](./images/domain-alias.png)
+
+### 4. You did it
+
+🛳 <a href="https://alberto.altuscodes.xyz" target="_blank" rel="noreferrer">alberto.altuscodes.xyz</a>
+
+🚀 <a href="https://alex.altuscodes.xyz" target="_blank" rel="noreferrer">alex.altuscodes.xyz</a>
+
+🛳 <a href="https://brian.altuscodes.xyz" target="_blank" rel="noreferrer">brian.altuscodes.xyz</a>
+
+🚀 <a href="https://dre.altuscodes.xyz" target="_blank" rel="noreferrer">dre.altuscodes.xyz</a>
+
+🛳 <a href="https://gabriel.altuscodes.xyz" target="_blank" rel="noreferrer">gabriel.altuscodes.xyz</a>
+
+🚀 <a href="https://gabrielm.altuscodes.xyz" target="_blank" rel="noreferrer">gabrielm.altuscodes.xyz</a>
+
+🛳 <a href="https://isaiah.altuscodes.xyz" target="_blank" rel="noreferrer">isaiah.altuscodes.xyz</a>
+
+🚀 <a href="https://joshua.altuscodes.xyz" target="_blank" rel="noreferrer">joshua.altuscodes.xyz</a>
+
+🛳 <a href="https://marlon.altuscodes.xyz" target="_blank" rel="noreferrer">marlon.altuscodes.xyz</a>
+
+🚀 <a href="https://max.altuscodes.xyz" target="_blank" rel="noreferrer">max.altuscodes.xyz</a>
+
+🛳 <a href="https://steph.altuscodes.xyz" target="_blank" rel="noreferrer">steph.altuscodes.xyz</a>
+
+🚀 <a href="https://zeus.altuscodes.xyz" target="_blank" rel="noreferrer">zeus.altuscodes.xyz</a>
