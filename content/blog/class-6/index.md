@@ -20,11 +20,16 @@ description: Let's figure out how to edit this bad boy on CodeSandbox
 First things first, search for "Hello World" in Code Sandbox.
 Code Sandbox's search tab will return all results in your code where the string "Hello World" appears. IMO that's the fastest way to find pieces that you want to change & anytime I see something on my website that I don't like... I search for it.
 
-### Remember if your sandbox doesn't show up... import it
+### 1.0 Find your previously imported Sandbox
 
-![import-code-sandbox](./images/import-code-sandbox.png)
+You can find your previously imported Repo here: https://codesandbox.io/dashboard/repositories.
 
-### Search for Hello World
+You should have a repo like `yourGithubName/class-notes-2` or `yourGithubName/class-notes` like mine below:
+![sandbox-repos](./images/sandbox-repos.png)
+
+If you don't have a repo import it by clicking the import repository button.
+
+### 2.0 Search for Hello World
 
 The search icon (it's on the top left)
 ![search-icon](./images/search-icon.png)
@@ -32,7 +37,7 @@ The search icon (it's on the top left)
 Search Results... These results show there is (1) file named `index.md` that includes the string "Hello World" on (2) lines.
 ![search-results](./images/search-results.png)
 
-### Edit the Hello World file
+### 3.0 Edit the Hello World file
 
 If you click one of the lines the `index.md` file will open, BUT IT's NOT EDITABLE... annoying
 
@@ -45,7 +50,7 @@ Now it's editable
 Edit the text from "Hello World" to "My Name is Whatever"
 ![my-name-is-whatever](./images/my-name-is-whatever.png)
 
-### Run your website
+### 4.0 Run your website
 
 Open a terminal
 ![open-a-terminal](./images/open-a-terminal.png)
@@ -82,12 +87,12 @@ When `npm run start` is done you can open the website preview in the top of Code
 Open the preview in full screen by clicking the little double window icon
 ![full-screen-preview](./images/full-screen-preview.png)
 
-### Edit -> Preview Workflow
+### 5.0 Edit -> Preview Workflow
 
 So now we can see a preview of our website... anytime we make an edit this preview should AUTOMATICALLY update... so go make a bunch of edits
 ![edit-preview-workflow](./images/edit-preview-workflow.png)
 
-### And push your edits to github
+### 6.0 And push your edits to github
 
 Click this little icon on the top left
 ![git-icon](./images/git-icon.png)
@@ -100,7 +105,7 @@ Then click `open pull request`
 Then create the pull request in github
 ![create-pull-request-github](./images/create-pull-request-github.png)
 
-### Temperature Check
+### 7.0 Temperature Check
 
 - We should talk about everything we just did.
 - This is AMAZING progress.
