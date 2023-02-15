@@ -19,13 +19,13 @@ Let's work through everything step-by-step below:
 A. Items should be Javascript Objects with the format:
 
   ```js
-  {
+  const myItem = {
     name: "", // a string
-    value: 1, // some number
+    price: 1.25, // some number
   }
   ```
 
-B. Define 5 items to buy. Give them names & prices.
+B. Define 5 items to buy. Give them the attributes `name` & `price`.
 
 ## 2 - add items to your shopping cart
 
